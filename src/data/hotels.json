@@ -1,0 +1,70 @@
+{
+    "hotels": [
+      {
+        "id": 1,
+        "name": "Little Jaisal Haveli",
+        "location": "Jaipur",
+        "price": 2400,
+        "priceUnit": "night",
+        "available": true,
+        "rating": 4.2,
+        "reviews": 1600,
+        "image": "/src/assets/images/little-jaisal-haveli.png"
+      },
+      {
+        "id": 2,
+        "name": "Hotel Rajasthan Palace",
+        "location": "Jaipur",
+        "price": 5610,
+        "priceUnit": "night",
+        "available": true,
+        "rating": 4.2,
+        "reviews": 1600,
+        "image": "/src/assets/images/rajasthan-palace.png"
+      },
+      {
+        "id": 3,
+        "name": "Sheel Mahal- Near Hawa Mahal",
+        "location": "Jaipur",
+        "price": 1200,
+        "priceUnit": "night",
+        "available": true,
+        "rating": 4.2,
+        "reviews": 1600,
+        "image": "/src/assets/images/sheel-mahal.png"
+      },
+      {
+        "id": 4,
+        "name": "Hukamgarh - A Luxury Boutique",
+        "location": "Jaipur",
+        "price": 3800,
+        "priceUnit": "night",
+        "available": true,
+        "rating": 4.2,
+        "reviews": 1600,
+        "image": "/src/assets/images/hukamgarh.png"
+      },
+      {
+        "id": 5,
+        "name": "Super Hotel O Moti Doongri Road",
+        "location": "Jaipur",
+        "price": 800,
+        "priceUnit": "night",
+        "available": false,
+        "rating": 4.2,
+        "reviews": 1600,
+        "image": "/src/assets/images/super-hotel.png"
+      },
+      {
+        "id": 6,
+        "name": "Grand Uniara A Heritage Hotel",
+        "location": "Jaipur",
+        "price": 8950,
+        "priceUnit": "night",
+        "available": true,
+        "rating": 4.2,
+        "reviews": 1600,
+        "image": "/src/assets/images/grand-uniara.png"
+      }
+    ]
+  }
