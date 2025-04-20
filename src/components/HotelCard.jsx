@@ -69,10 +69,10 @@ const HotelCard = ({ hotel }) => {
           </div>
         </div>
       </div>
-      <div className="absolute right-0 top-0 bottom-0 flex flex-col justify-center items-center mt-11 lg:mt-4 md:mt-4 gap-4 p-3">
-        <div>
+      <div className="absolute right-0 top-0 bottom-0 flex flex-col justify-between md:justify-center  md:items-center mt-2 lg:mt-4 md:mt-4 gap-4 p-3">
+        <div className="text-right">
           <span className="md:text-xl font-medium font-['Cinzel']">₹{price}</span>
-          <span className="md:text-xs text-center text-gray-500 block ">/{priceUnit}</span>
+          <span className="md:text-xs md:text-center text-gray-500 block ">/{priceUnit}</span>
         </div>
 
         <button className="bg-white text-pink-500 border border-pink-500 rounded-full px-6 py-1 text-sm font-medium hover:bg-pink-50 transition lg:whitespace-nowrap font-['Candara']">

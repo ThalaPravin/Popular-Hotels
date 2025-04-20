@@ -19,7 +19,7 @@ const PopularHotels = () => {
   return (
     <div className="container  mx-auto px-4 py-6 w-full min-h-screen">
       <div className="flex flex-col lg:flex-row [@media(max-width:1385px)]:flex-col md:flex-col gap-6">
-        <div className="w-full ">
+        <div className="w-full  ">
           <TabNavigation activeTab={activeTab} onTabChange={handleTabChange} />
           
           {activeTab === 'Hotels' && (

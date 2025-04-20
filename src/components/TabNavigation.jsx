@@ -4,8 +4,8 @@ const TabNavigation = ({ activeTab, onTabChange }) => {
   const tabs = ["Hotels", "Restaurants", "Places"];
 
   return (
-    <div className="border-b mb-6">
-      <div className="flex justify-center">
+    <div className="mb-6">
+      <div className="flex justify-center ">
         {tabs.map((tab) => (
           <button
             key={tab}
