@@ -9,7 +9,7 @@
         "available": true,
         "rating": 4.2,
         "reviews": 1600,
-        "image": "/src/assets/images/little-jaisal-haveli.png"
+        "image": "/public/assets/images/little-jaisal-haveli.png"
       },
       {
         "id": 2,
@@ -20,7 +20,7 @@
         "available": true,
         "rating": 4.2,
         "reviews": 1600,
-        "image": "/src/assets/images/rajasthan-palace.png"
+        "image": "/public/assets/images/rajasthan-palace.png"
       },
       {
         "id": 3,
@@ -31,7 +31,7 @@
         "available": true,
         "rating": 4.2,
         "reviews": 1600,
-        "image": "/src/assets/images/sheel-mahal.png"
+        "image": "/public/assets/images/sheel-mahal.png"
       },
       {
         "id": 4,
@@ -42,7 +42,7 @@
         "available": true,
         "rating": 4.2,
         "reviews": 1600,
-        "image": "/src/assets/images/hukamgarh.png"
+        "image": "/public/assets/images/hukamgarh.png"
       },
       {
         "id": 5,
@@ -53,7 +53,7 @@
         "available": false,
         "rating": 4.2,
         "reviews": 1600,
-        "image": "/src/assets/images/super-hotel.png"
+        "image": "/public/assets/images/super-hotel.png"
       },
       {
         "id": 6,
@@ -64,7 +64,7 @@
         "available": true,
         "rating": 4.2,
         "reviews": 1600,
-        "image": "/src/assets/images/grand-uniara.png"
+        "image": "/public/assets/images/grand-uniara.png"
       }
     ]
   }

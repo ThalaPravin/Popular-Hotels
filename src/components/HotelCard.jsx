@@ -1,9 +1,9 @@
 import React from "react";
-import NoOfRev from "../assets/images/NoOfRev.png";
-import LocationIcon from "../assets/images/LocationIcon.png";
-import CarTagicon from "../assets/images/CarTagicon.png";
-import RightMark from "../assets/images/RightMark.png";
-import WrongIcon from "../assets/images/WrongIcon.png";
+import NoOfRev from "../../public/assets/images/NoOfRev.png";
+import LocationIcon from "../../public/assets/images/LocationIcon.png";
+import CarTagicon from "../../public/assets/images/CarTagicon.png";
+import RightMark from "../../public/assets/images/RightMark.png";
+import WrongIcon from "../../public/assets/images/WrongIcon.png";
 
 const HotelCard = ({ hotel }) => {
   const {
